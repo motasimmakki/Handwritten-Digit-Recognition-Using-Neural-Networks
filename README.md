@@ -1,2 +1,2 @@
-# Hnadwritten-Digit-Recognition-Using-Neural-Networks
+# Handwritten-Digit-Recognition-Using-Neural-Networks
 Under Development process. . .
