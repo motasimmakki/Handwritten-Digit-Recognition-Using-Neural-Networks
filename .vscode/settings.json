@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "argmax",
+        "cmap",
+        "imread",
+        "imshow",
+        "keras",
+        "matplotlib",
+        "mnist",
+        "pyplot",
+        "relu",
+        "softmax"
+    ]
+}
